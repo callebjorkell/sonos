@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/szatmary/sonos"
+	"github.com/callebjorkell/sonos"
 )
 
 func main() {
